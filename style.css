@@ -1,0 +1,31 @@
+html{
+    width: 50%;
+    margin: 0 auto;
+}
+select{
+    width: 20%!important;
+    
+}
+.status-aqi1 {
+    background-color: #7fff00;
+}
+
+.status-aqi2 {
+    background-color: #ffff00;
+}
+
+.status-aqi3 {
+    background-color: #ff7e00;
+}
+
+.status-aqi4 {
+    background-color: #ff0000;
+}
+
+.status-aqi5 {
+    background-color: #8f3f97;
+}
+
+.status-aqi6 {
+    background-color: #7e0023;
+}
